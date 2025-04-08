@@ -4,8 +4,10 @@ Thid is a react project which is  a texi booking system.
 
 author
 
-Monica Michelle Njeri Njeri Mwangi
+Monica Michelle Njeri Mwangi
+
 Veronica Kinyua
+
 Dennis Kiarie
 
 
