@@ -1,6 +1,6 @@
 TAXI BOOKING  SYSTEM 
 
-Thid is a react project which is  a texi booking system.
+Thid is a react project which is  a taxi booking system.
 
 author
 
